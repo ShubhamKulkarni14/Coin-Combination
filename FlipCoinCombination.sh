@@ -63,6 +63,8 @@ do
         	dict[TH]=$th_c
 	fi
 done
+echo
+
 echo "H : "${dict[H]}
 echo "T : "${dict[T]}
 
